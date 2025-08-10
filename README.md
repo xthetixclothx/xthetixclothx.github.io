@@ -77,39 +77,49 @@
 
 <div class="products">
     <div class="product">
-        <img src="https://via.placeholder.com/250x250?text=Product+1" alt="Product 1">
-        <h3>Product 1</h3>
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0006.jpg" alt="Brown Coat Streetwear">
+        <h3>Brown Coat Streetwear</h3>
         <p>$29</p>
     </div>
     <div class="product">
-        <img src="https://via.placeholder.com/250x250?text=Product+2" alt="Product 2">
-        <h3>Product 2</h3>
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0007.jpg" alt="Tropical Beach Shirt">
+        <h3>Tropical Beach Shirt</h3>
         <p>$39</p>
     </div>
     <div class="product">
-        <img src="https://via.placeholder.com/250x250?text=Product+3" alt="Product 3">
-        <h3>Product 3</h3>
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0008.jpg" alt="Stack of Formal Shirts">
+        <h3>Stack of Formal Shirts</h3>
         <p>$34</p>
     </div>
     <div class="product">
-        <img src="https://via.placeholder.com/250x250?text=Product+4" alt="Product 4">
-        <h3>Product 4</h3>
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0009.jpg" alt="White T-shirt">
+        <h3>White T-shirt</h3>
         <p>$49</p>
     </div>
     <div class="product">
-        <img src="https://via.placeholder.com/250x250?text=Product+5" alt="Product 5">
-        <h3>Product 5</h3>
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0010.jpg" alt="Hip-hop Hoodie">
+        <h3>Hip-hop Hoodie</h3>
         <p>$59</p>
     </div>
     <div class="product">
-        <img src="https://via.placeholder.com/250x250?text=Product+6" alt="Product 6">
-        <h3>Product 6</h3>
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0011.jpg" alt="Grey Hoodie">
+        <h3>Grey Hoodie</h3>
         <p>$47</p>
     </div>
     <div class="product">
-        <img src="https://via.placeholder.com/250x250?text=Product+7" alt="Product 7">
-        <h3>Product 7</h3>
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0012.jpg" alt="Dodgers Oversized Sweatshirt">
+        <h3>Dodgers Oversized Sweatshirt</h3>
         <p>$79</p>
+    </div>
+    <div class="product">
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0013.jpg" alt="Rack of Hawaiian Shirts">
+        <h3>Rack of Hawaiian Shirts</h3>
+        <p>$55</p>
+    </div>
+    <div class="product">
+        <img src="https://raw.githubusercontent.com/Rileyy-x/Rileyy-x.github.io/main/img/IMG-20250208-WA0014.jpg" alt="White Polo Shirt">
+        <h3>White Polo Shirt</h3>
+        <p>$42</p>
     </div>
 </div>
 
